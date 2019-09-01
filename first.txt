@@ -1,3 +1,10 @@
-1.本地库推到githut   git push upstream master 
+﻿1.本地库推到githut   git push upstream master 
 2.github拉代码       git pull upstream master
 w 
+1.建立新文件夹
+2.执行 git init 后多了  .git文件夹
+3.把文件添加   git add .
+4.提交到本地库  git commit -m "提交文件"
+5.关联github上的仓库  git remote add upstream https://github.com/Truelig/tuu_first.git
+6.本地库推到githut   git push upstream master 
+7.github拉代码       git pull upstream master
